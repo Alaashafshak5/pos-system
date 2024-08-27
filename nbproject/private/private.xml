@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Sales/Product.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/PaymentMethodFrame.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Sales/SalesLineItem.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/NewSaleFrame.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Payments/CheckPayment.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Payments/Payment.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/CatalogFrame.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/TechnicalServices/Persistence/DataSource.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Sales/ProductCatalog.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Payments/CreditPayment.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/TechnicalServices/Persistence/PersistentStorage.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Payments/CashPayment.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/taxes/LebanonTax.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/ProcessSaleJFrame.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Sales/Store.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/TechnicalServices/Persistence/Register.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/MainFrame.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/GuiListModels.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Sales/Sale.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/taxes/TaxAdapter.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/Domain/Payments/PaymentADAPTER.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/TechnicalServices/Persistence/TransferFromDB.java</file>
+            <file>file:/D:/Downloads/Telegram%20Desktop/POS%20System/src/UI/Swing/QuantityFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
